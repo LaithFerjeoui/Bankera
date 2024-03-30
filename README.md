@@ -5,7 +5,6 @@
 
 
 
-###  FrontEnd UI/UX website based on a Figma Design using ReactJS and Tailwind CSS for a banking platform, ensuring an
-intuitive and visually appealing user experience.
+###  FrontEnd UI/UX website based on a Figma Design using ReactJS and Tailwind CSS for a banking platform, ensuring an intuitive and visually appealing user experience.
 
 
